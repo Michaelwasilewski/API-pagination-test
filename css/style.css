@@ -1,0 +1,7 @@
+.pokemon li {
+  margin: 10px 20px;
+  list-style-type: none;
+  background-color: tomato;
+  color: antiquewhite;
+  font-weight: bold;
+}
